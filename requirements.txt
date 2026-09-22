@@ -1,0 +1,9 @@
+# Versions pinned to match the saved .sav models (built with these exact versions)
+streamlit==1.64.0
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+scipy==1.17.1
+plotly==7.1.0
+joblib==1.5.3
+openpyxl==3.1.5

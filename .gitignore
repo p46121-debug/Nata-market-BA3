@@ -1,0 +1,12 @@
+# Case data is copyrighted - never commit it
+data/
+*.xlsx
+*.xls
+# Python / editor clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+.streamlit/secrets.toml
